@@ -1,7 +1,6 @@
 /**
  * File Uploader File
  *
- * @category Controlers
  * @package  File Uploader
  * @author   Oliver Green <oliver@builddigital.net>
  * @license  http://www.gnu.org/copyleft/gpl.html GPL3
@@ -11,7 +10,6 @@
 /**
  * File Uploader 'Class'
  *
- * @category Controlers
  * @package  File Uploader
  * @author   Oliver Green <oliver@builddigital.net>
  * @license  http://www.gnu.org/copyleft/gpl.html GPL3
